@@ -1,10 +1,16 @@
 _repo: The-Art-of-the-Bone-Setter-A-Testimony-and-a-Vindication_50568
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50568-h/images/cover.jpg
 creator:
   author:
     agent_name: Bennett, George Matthews
     gutenberg_agent_id: '45978'
     url: http://www.gutenberg.org/2009/agents/45978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50568#The-Art-of-the-Bone-Setter-A-Testimony-and-a-Vindication
 gutenberg_issued: '2015-11-28'
 gutenberg_type: Text
 identifiers:
